@@ -22,5 +22,10 @@ Step 3: TF*IDF
 
 Step 4: calculating Cosine Distance
 
-cosine distancec = 1 - cos(angle between tf-idf vectors)
+cosine distance = 1 - cos(angle between tf-idf vectors)
 
+Following is the result:
+
+<img src="https://github.com/vipul9/Term-Frequency-Inverse-Document-Frequency/blob/main/tf-idf.png" width="400"/>
+
+It is interesting to note that the 2 types of documents form 2 clear groups: the synopsis of fairy tales are more similar to each other than they are to scientific papers.
